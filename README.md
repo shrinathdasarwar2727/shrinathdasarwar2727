@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/main/RQ61C3jIVrW8kUO9fXbiE59hd7515viwTULU0mxitENhpwFb64SXElpGFOEqxVccporkVdpDnSmen9NwJggw1yNCzjuONNepNK8OYZeZjooM-qmVylCnL8p6OPUX9aQ67vx2PIuirb8t5gi20NlFM-fJwiXs6NmV_6tdNbCpC9UcvLa0G0WoH5mB5I-dekYK.jpeg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shrinath Dasarwar</h1>
