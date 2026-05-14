@@ -1,274 +1,268 @@
+````md
 <div align="center">
 
-<!-- ANIMATED HEADER — capsule-render is reliable -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,30:0a1628,60:0d1f3c,100:001a2e&height=280&section=header&text=SHRINATH%20DASARWAR&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20UI%20Engineer%20%7C%20CS-IT%20Student&descAlignY=62&descSize=16&descColor=7ECFFF&stroke=00F7FF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=260&section=header&text=SHRINATH%20DASARWAR&fontSize=52&fontColor=38BDF8&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20CS-IT%20Student&descAlignY=60&descColor=93C5FD" />
 
-<!-- TYPING — JetBrains+Mono works reliably on demolab -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Building+Futuristic+Web+Experiences;🎧+Crafting+AI-Powered+Applications;⚡+Turning+Ideas+into+Reality;🌌+Always+Leveling+Up" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Building+Modern+Web+Experiences;🎧+Crafting+AI-Powered+Projects;⚡+Turning+Ideas+Into+Reality;🌌+Always+Learning+New+Things" alt="Typing SVG" />
 
 <br/>
 
-<!-- BADGES — shields.io only, no third-party logos that get stripped -->
-<img src="https://komarev.com/ghpvc/?username=shrinathdasarwar2727&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=shrinathdasarwar2727&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/shrinathdasarwar2727?style=flat-square&color=00F7FF&labelColor=0d1117&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/shrinathdasarwar2727?style=flat-square&color=38BDF8&labelColor=0F172A&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE-00F7FF?style=flat-square&labelColor=030712" />
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-PRO-00F7FF?style=flat-square&labelColor=030912&logo=github&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE-38BDF8?style=flat-square&labelColor=0F172A" />
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 〔 ◈ 〕 `IDENTITY.TS`
+# ⚡ About Me
 
 ```typescript
 const shrinath = {
-  role        : "Full Stack Developer & CS-IT Student",
-  currentBuild: ["🎧 Music Streaming Web App", "🤖 AI-Powered Projects"],
-  learning    : ["Next.js", "GSAP", "Generative AI", "System Design"],
-  passions    : ["Animations", "UI/UX Engineering", "Predictive Systems"],
-  mission     : "Become an Elite Full Stack Developer",
-  contact     : "dasarwarshrinath@gmail.com",
-  available   : true,   // open to opportunities & collaborations
-  motto       : "Code is poetry. Build things that matter."
+  role: "Full Stack Developer & CS-IT Student",
+
+  currentBuild: [
+    "🎧 Music Streaming Web App",
+    "🤖 AI-Powered Projects"
+  ],
+
+  learning: [
+    "Next.js",
+    "GSAP",
+    "Generative AI",
+    "System Design"
+  ],
+
+  passions: [
+    "UI/UX Engineering",
+    "Animations",
+    "Predictive Systems"
+  ],
+
+  mission: "Become an Elite Full Stack Developer",
+
+  contact: "dasarwarshrinath@gmail.com",
+
+  motto: "Code is poetry. Build things that matter."
 };
-```
+````
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+---
 
-## 〔 ◈ 〕 `TECH.STACK`
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,git,github,vscode&theme=dark&perline=6" />
-
-<br/><br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,git,github,vscode&theme=dark" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+---
 
-## 〔 ◈ 〕 `FEATURED.PROJECTS`
+# 🚀 Featured Projects
 
 <div align="center">
+
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🏋️ FitTrack Predictive Coach</h3>
+## 🏋️ FitTrack Predictive Coach
 
 <p align="center">
-  <a href="https://shrinathdasarwar2727.github.io/fittrack-predictive-coach/">
-    <img src="https://img.shields.io/badge/▶_LIVE-View_Project-00F7FF?style=for-the-badge&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/shrinathdasarwar2727/fittrack-predictive-coach">
-    <img src="https://img.shields.io/badge/SOURCE-View_Code-7ECFFF?style=for-the-badge&labelColor=0d1117" />
-  </a>
+
+<a href="https://shrinathdasarwar2727.github.io/fittrack-predictive-coach/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-38BDF8?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/shrinathdasarwar2727/fittrack-predictive-coach">
+<img src="https://img.shields.io/badge/SOURCE_CODE-93C5FD?style=for-the-badge&labelColor=0F172A" />
+</a>
+
 </p>
 
-> 🧠 AI-powered fitness tracker with workout logging, calorie tracking, weight trend analysis and **predictive goal timeline forecasting**.
+AI-powered fitness tracker with:
 
-![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![AI](https://img.shields.io/badge/AI_Analytics-00F7FF?style=flat-square&labelColor=0d1117)
-![Charts](https://img.shields.io/badge/Data_Viz-7ECFFF?style=flat-square&labelColor=0d1117)
+* Workout logging
+* Calorie tracking
+* Goal prediction
+* Progress analytics
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🌌 Cosmic Insights</h3>
+## 🌌 Cosmic Insights
 
 <p align="center">
-  <a href="https://shrinathdasarwar2727.github.io/Cosmic-Insights/">
-    <img src="https://img.shields.io/badge/▶_LIVE-View_Project-00F7FF?style=for-the-badge&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/shrinathdasarwar2727/Cosmic-Insights">
-    <img src="https://img.shields.io/badge/SOURCE-View_Code-7ECFFF?style=for-the-badge&labelColor=0d1117" />
-  </a>
+
+<a href="https://shrinathdasarwar2727.github.io/Cosmic-Insights/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-38BDF8?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/shrinathdasarwar2727/Cosmic-Insights">
+<img src="https://img.shields.io/badge/SOURCE_CODE-93C5FD?style=for-the-badge&labelColor=0F172A" />
+</a>
+
 </p>
 
-> 🔮 Immersive **Numerology Web Application** delivering cosmic, personality & life-path insights through a beautifully crafted celestial interface.
+Beautiful numerology web application with:
 
-![TS](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![Numerology](https://img.shields.io/badge/Numerology_Engine-00F7FF?style=flat-square&labelColor=0d1117)
-![UI](https://img.shields.io/badge/Cosmic_UI-7ECFFF?style=flat-square&labelColor=0d1117)
+* Life path insights
+* Personality analysis
+* Futuristic celestial UI
+* Interactive calculations
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🎧 Music Streaming App</h3>
+## 🎧 Music Streaming App
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FFB300?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/IN_PROGRESS-F59E0B?style=for-the-badge&labelColor=0F172A" />
+
 </p>
 
-> 🎵 Spotify-inspired full-stack music streaming platform with real-time playback, dynamic playlists & a sleek futuristic UI. Coming soon.
+Spotify-inspired music platform featuring:
 
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
-![Full Stack](https://img.shields.io/badge/Full_Stack-7ECFFF?style=flat-square&labelColor=0d1117)
+* Real-time playback
+* Dynamic playlists
+* Modern responsive UI
+* AI-powered recommendations
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Employee Performance Predictor</h3>
+## 📊 Employee Performance Predictor
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00F7FF?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/COMPLETED-38BDF8?style=for-the-badge&labelColor=0F172A" />
+
 </p>
 
-> 📈 ML-driven web app predicting employee performance scores using behavioral & HR data, built with Python and interactive dashboards.
+Machine learning project using:
 
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![ML](https://img.shields.io/badge/Machine_Learning-00F7FF?style=flat-square&labelColor=0d1117)
-![HR](https://img.shields.io/badge/HR_Analytics-7ECFFF?style=flat-square&labelColor=0d1117)
+* Python
+* Predictive analytics
+* HR datasets
+* Interactive dashboards
 
 </td>
+
 </tr>
+
 </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 〔 ◈ 〕 `GITHUB.ANALYTICS`
-
-<div align="center">
-
-<!--
-  Using github-readme-stats with cache_seconds to reduce rate-limit hits.
-  If these still break, replace both with the profile-summary-cards below.
--->
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shrinathdasarwar2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00F7FF&icon_color=00F7FF&text_color=7ECFFF&ring_color=00F7FF&border_radius=8&cache_seconds=86400" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathdasarwar2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00F7FF&text_color=7ECFFF&border_radius=8&cache_seconds=86400" />
-
-<br/><br/>
-
-<!-- Streak stats — demolab is reliable -->
-<img src="https://streak-stats.demolab.com?user=shrinathdasarwar2727&theme=tokyonight-duo&hide_border=true&background=030712&ring=00F7FF&fire=FFB300&currStreakLabel=00F7FF&sideLabels=7ECFFF&dates=475569&stroke=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8" />
-
-<br/><br/>
-
-<!-- Activity graph — ssh.surf/ghchart is the most stable alternative -->
-<img src="https://ghchart.rshah.org/00F7FF/shrinathdasarwar2727" alt="Contribution Chart" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+---
 
-## 〔 ◈ 〕 `CONTRIBUTION.SNAKE`
+# 📊 GitHub Analytics
 
 <div align="center">
 
-> ⚙️ **One-time setup:** Add `.github/workflows/snake.yml` to activate the snake animation.
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrinathdasarwar2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=93C5FD" />
 
-<details>
-<summary>📋 <b>snake.yml — click to expand and copy</b></summary>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrinathdasarwar2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=93C5FD" />
 
-```yaml
-name: Generate Snake
+<br/><br/>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<img src="https://streak-stats.demolab.com?user=shrinathdasarwar2727&theme=tokyonight-duo&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=93C5FD" />
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: shrinathdasarwar2727
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+<br/><br/>
 
-</details>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinathdasarwar2727&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=38BDF8&line=38BDF8&point=93C5FD" />
 
-<!-- Snake image only shows after you run the workflow above once -->
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-contribution-grid-snake.svg" />
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-snake-dark.svg" />
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-snake.svg" />
+
+<img alt="github snake"
+src="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-snake.svg" />
+
 </picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+---
 
-## 〔 ◈ 〕 `CURRENT.FOCUS`
+# 🎯 Current Focus
 
 <div align="center">
 
-| 🔨 **Building** | 📖 **Learning** | 🎯 **Goal** |
-|:-----------:|:-----------:|:-------:|
-| 🎧 Music Streaming App | Next.js & App Router | Elite Full Stack Dev |
-| 🤖 AI-Powered Projects | GSAP Animations | Open Source Contributor |
-| 🌐 Portfolio Website | System Design | 🚀 Land Dream Role |
+| 🔨 Building            | 📖 Learning    | 🚀 Goal                    |
+| ---------------------- | -------------- | -------------------------- |
+| 🎧 Music Streaming App | Next.js & GSAP | Elite Full Stack Developer |
+| 🤖 AI-Powered Projects | System Design  | Open Source Contributor    |
+| 🌐 Portfolio Website   | Generative AI  | Dream Tech Role            |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+---
 
-## 〔 ◈ 〕 `CONNECT.WITH.ME`
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dasarwar-shrinath-bb884923a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+
 </a>
-&nbsp;&nbsp;
+
+ 
+
 <a href="mailto:dasarwarshrinath@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;&nbsp;
-<a href="https://shrinathdasarwar2727.github.io/fittrack-predictive-coach/">
-  <img src="https://img.shields.io/badge/Portfolio-View_Work-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
+
 </a>
 
-<br/><br/>
+ 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<a href="https://github.com/shrinathdasarwar2727">
+
+<img src="https://img.shields.io/badge/GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+
+</a>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,50:0d1f3c,100:030712&height=120&section=footer&fontColor=00F7FF" />
+---
 
 <div align="center">
-  <i>"Code is poetry. Build things that matter."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=120&section=footer" />
+
+### ⚡ Code is poetry. Build things that matter.
+
 </div>
+```
