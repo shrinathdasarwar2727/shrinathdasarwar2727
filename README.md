@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=260&section=header&text=SHRINATH%20DASARWAR&fontSize=52&fontColor=38BDF8&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20CS-IT%20Student&descAlignY=60&descColor=93C5FD" />
