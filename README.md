@@ -1,8 +1,8 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=260&section=header&text=SHRINATH%20DASARWAR&fontSize=52&fontColor=38BDF8&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20CS-IT%20Student&descAlignY=60&descColor=93C5FD" />
 
+<!-- JetBrains+Mono is supported and reliable on demolab -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Building+Modern+Web+Experiences;🎧+Crafting+AI-Powered+Projects;⚡+Turning+Ideas+Into+Reality;🌌+Always+Learning+New+Things" alt="Typing SVG" />
 
 <br/>
@@ -47,7 +47,7 @@ const shrinath = {
 
   motto: "Code is poetry. Build things that matter."
 };
-````
+```
 
 ---
 
@@ -55,7 +55,12 @@ const shrinath = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,git,github,vscode&theme=dark" />
+<!-- Split into 2 rows so icons don't overflow on GitHub's narrow README width -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -87,7 +92,7 @@ const shrinath = {
 
 </p>
 
-AI-powered fitness tracker with:
+🧠 AI-powered fitness tracker with:
 
 * Workout logging
 * Calorie tracking
@@ -114,7 +119,7 @@ AI-powered fitness tracker with:
 
 </p>
 
-Beautiful numerology web application with:
+🔮 Numerology web application with:
 
 * Life path insights
 * Personality analysis
@@ -132,16 +137,14 @@ Beautiful numerology web application with:
 ## 🎧 Music Streaming App
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/IN_PROGRESS-F59E0B?style=for-the-badge&labelColor=0F172A" />
-
 </p>
 
-Spotify-inspired music platform featuring:
+🎵 Spotify-inspired platform featuring:
 
 * Real-time playback
 * Dynamic playlists
-* Modern responsive UI
+* Responsive UI
 * AI-powered recommendations
 
 </td>
@@ -151,12 +154,10 @@ Spotify-inspired music platform featuring:
 ## 📊 Employee Performance Predictor
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/COMPLETED-38BDF8?style=for-the-badge&labelColor=0F172A" />
-
 </p>
 
-Machine learning project using:
+📈 Machine learning project using:
 
 * Python
 * Predictive analytics
@@ -177,17 +178,20 @@ Machine learning project using:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrinathdasarwar2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=93C5FD" />
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrinathdasarwar2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=93C5FD" />
+<!-- cache_seconds=86400 reduces rate-limit failures significantly -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shrinathdasarwar2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=93C5FD&cache_seconds=86400" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathdasarwar2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=93C5FD&cache_seconds=86400" />
 
 <br/><br/>
 
+<!-- demolab streak is stable and reliable -->
 <img src="https://streak-stats.demolab.com?user=shrinathdasarwar2727&theme=tokyonight-duo&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=93C5FD" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinathdasarwar2727&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=38BDF8&line=38BDF8&point=93C5FD" />
+<!-- ghchart is a lightweight, always-on alternative to activity-graph.vercel.app -->
+<img src="https://ghchart.rshah.org/38BDF8/shrinathdasarwar2727" alt="GitHub Contribution Chart" />
 
 </div>
 
@@ -197,17 +201,23 @@ Machine learning project using:
 
 <div align="center">
 
+> ⚙️ **Setup required once:** Create `.github/workflows/snake.yml` in this repo, run it manually from the Actions tab, then the snake below will appear automatically every day.
+
+<details>
+<summary>📋 <b>snake.yml — click to copy</b></summary>
+
+
+
+</details>
+
+<!-- Correct filenames: github-contribution-grid-snake.svg (NOT github-snake.svg) -->
 <picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-snake-dark.svg" />
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-snake.svg" />
-
-<img alt="github snake"
-src="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-snake.svg" />
-
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-contribution-grid-snake.svg" />
+  <img alt="github snake"
+    src="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -233,25 +243,15 @@ src="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dasarwar-shrinath-bb884923a/">
-
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
-
 </a>
-
- 
-
+&nbsp;
 <a href="mailto:dasarwarshrinath@gmail.com">
-
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
-
 </a>
-
- 
-
+&nbsp;
 <a href="https://github.com/shrinathdasarwar2727">
-
 <img src="https://img.shields.io/badge/GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
-
 </a>
 
 </div>
@@ -265,4 +265,3 @@ src="https://raw.githubusercontent.com/shrinathdasarwar2727/shrinathdasarwar2727
 ### ⚡ Code is poetry. Build things that matter.
 
 </div>
-```
